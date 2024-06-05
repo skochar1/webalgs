@@ -16,7 +16,6 @@ This repository contains a collection of network algorithms designed for analyzi
     - [Centrality Seeds](#centrality-seeds)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -76,7 +75,3 @@ python analysis_by_bet_centrality.py
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the existing style and includes appropriate documentation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
